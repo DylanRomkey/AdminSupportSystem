@@ -1,0 +1,305 @@
+﻿/*Master Page*/
+#wrapper {
+    width:99%;
+    margin:1% auto;
+}
+
+#header {
+    width:99%;
+    margin:0 auto;
+    text-align:center;
+}
+
+#Logo, #headerImage {
+    text-align: center;
+}
+
+button, input, optgroup, select, textarea {
+    margin: 0;
+}
+
+/*Default Page*/
+#confirmationDiv {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: -4%;
+}
+
+#links {
+    background-color: #E7ECED;
+    text-align: center;
+}
+
+#navList li {
+    display: inline;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    color: #21947C;
+}
+
+.mainContent {
+    width: 60%;
+    margin-top: 4%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+.centerContent {
+    text-align: center;
+}
+
+/*Login Page*/
+#userFields {
+    width: 25%;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.userLabel {
+    float: left;
+}
+
+.userText {
+    float: right;
+}
+
+#userButtons {
+    text-align: center;
+    margin-top: 5%;
+}
+
+/*Create Purchase Order Page*/
+#confirmationCreateDiv {
+    text-align: center;
+    font-weight: bold;
+}
+
+#headline {
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+#bodyInfo {
+    width: 100%;
+    background-color: #F2F2F2;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+#EmployeeInfo {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    width: 100%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#EmployeeInfo table {
+    margin-left: auto;
+    margin-right: auto;
+}
+#EmployeeInfo th{
+    text-align: center;    
+    
+}
+#EmployeeInfo td{
+    text-align: center;
+    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+    padding: 0 20px 20px 20px;
+
+}
+
+.employeeLabelFirst {
+    margin-right: 0.5%;
+}
+
+.employeeLabel {
+    margin-left: 1%;
+    margin-right: 0.5%;
+}
+
+#fields {
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.itemLabel {
+    float: left;
+    font-weight: 700;
+}
+
+.itemText {
+    float: right;
+}
+
+#buttons {
+    margin-top: 2%;
+    text-align: center;
+}
+
+#totalsInfo {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    width: 100%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#gridViewInfo {
+    width: 600px;
+    margin-top: 4%;
+    margin-bottom: 5%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.button {
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+}
+
+/*Modify Purchase Order Page*/
+#search {
+    margin-bottom: 5%;
+    width: 55%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#searchNumber {
+    margin-bottom: 2%;
+    float: left;
+}
+
+#searchOther {
+    margin-bottom: 2%;
+    float: right;
+}
+
+.searchRadioButton {
+    display: inline;
+    margin-right: 5px;
+}
+
+.searchRadioButton label{
+    margin-left: 5px;
+    font-weight: normal !important;
+}
+
+.searchRadioButton input[type="radio"]
+{
+   margin-left: 10px;
+   margin-right: 1px;
+}
+
+#orderDetailsInfo {
+    margin-top: 3%;
+    margin-bottom: 3%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+
+#itemDetails {
+    margin-top: 3%;
+    width: 45%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#infoLeft {
+    float: left;
+    width: 50%;
+    margin-bottom: 11%;
+}
+
+#infoRight {
+    float: right;
+    margin-bottom: 15%;
+    width: 40%;
+}
+
+#modifyButtons {
+    margin-top: 5%;
+}
+
+#cancelButton {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2%;
+    text-align: center;
+}
+
+#orderInfo {
+    width: 700px;
+    margin-top: 4%;
+    margin-bottom: 2%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#itemsInfo {
+    width: 1000px;
+    margin-top: 4%;
+    margin-bottom: 2%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#itemButtons {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2%;
+    text-align: center;
+}
+
+/*Process Purchase Order Page*/
+#confirmationProcess {
+    text-align: center;
+    font-weight: bold;
+}
+
+#searchProcess {
+    margin-bottom: 2%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+#closeDiv {
+    text-align: center;
+}
+
+/*Calculate Pension Page*/
+.retireTable{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    width: 100%;
+    text-align: center;
+    margin: auto; 
+}
+.retireTable table {
+        margin-left: auto;
+    margin-right: auto;
+}
+.retireTable th{
+    padding:10px;
+    padding-right:0;
+
+}
+.retireTable td{
+    text-align:left;
+}

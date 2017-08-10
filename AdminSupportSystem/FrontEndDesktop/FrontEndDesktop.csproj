@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2FAE9518-F0D9-46A9-BBC3-5D3940F5020F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FrontEndDesktop</RootNamespace>
+    <AssemblyName>FrontEndDesktop</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MdiTabControl">
+      <HintPath>..\..\..\First Year\Second Semester\DB Programming\DLL\MdiTabControl.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="HR Forms\ApplySalary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HR Forms\ApplySalary.Designer.cs">
+      <DependentUpon>ApplySalary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HR Forms\EmployeeAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HR Forms\EmployeeAdd.Designer.cs">
+      <DependentUpon>EmployeeAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HR Forms\EmployeeModification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HR Forms\EmployeeModification.Designer.cs">
+      <DependentUpon>EmployeeModification.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HR Forms\EmployeeSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HR Forms\EmployeeSearch.Designer.cs">
+      <DependentUpon>EmployeeSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HR Forms\GeneratePay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HR Forms\GeneratePay.Designer.cs">
+      <DependentUpon>GeneratePay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HR Forms\Passcode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HR Forms\Passcode.Designer.cs">
+      <DependentUpon>Passcode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HR Forms\SickDay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HR Forms\SickDay.Designer.cs">
+      <DependentUpon>SickDay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Purchase Order Forms\CreatePurchaseOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Purchase Order Forms\CreatePurchaseOrder.Designer.cs">
+      <DependentUpon>CreatePurchaseOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Purchase Order Forms\ProcessPurchaseOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Purchase Order Forms\ProcessPurchaseOrder.Designer.cs">
+      <DependentUpon>ProcessPurchaseOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Startup Forms\About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Startup Forms\About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Startup Forms\Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Startup Forms\Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Purchase Order Forms\ModifyPurchaseOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Purchase Order Forms\ModifyPurchaseOrder.Designer.cs">
+      <DependentUpon>ModifyPurchaseOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Startup Forms\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Startup Forms\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Startup Forms\Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Startup Forms\Splash.Designer.cs">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="HR Forms\ApplySalary.resx">
+      <DependentUpon>ApplySalary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HR Forms\EmployeeAdd.resx">
+      <DependentUpon>EmployeeAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HR Forms\EmployeeModification.resx">
+      <DependentUpon>EmployeeModification.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HR Forms\EmployeeSearch.resx">
+      <DependentUpon>EmployeeSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HR Forms\GeneratePay.resx">
+      <DependentUpon>GeneratePay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HR Forms\Passcode.resx">
+      <DependentUpon>Passcode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HR Forms\SickDay.resx">
+      <DependentUpon>SickDay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Purchase Order Forms\CreatePurchaseOrder.resx">
+      <DependentUpon>CreatePurchaseOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Purchase Order Forms\ProcessPurchaseOrder.resx">
+      <DependentUpon>ProcessPurchaseOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Startup Forms\About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Startup Forms\Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Purchase Order Forms\ModifyPurchaseOrder.resx">
+      <DependentUpon>ModifyPurchaseOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Startup Forms\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Startup Forms\Splash.resx">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AdminSupportSystem\BOL.csproj">
+      <Project>{400270f7-518d-4e99-83b8-757a6c4b136c}</Project>
+      <Name>BOL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UDT\UDT.csproj">
+      <Project>{e481cca3-e9f7-4dab-af04-501902b88ce8}</Project>
+      <Name>UDT</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VAL\VAL.csproj">
+      <Project>{db75b620-164b-4669-9c6b-58f2cab7a1b2}</Project>
+      <Name>VAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\createPurchaseOrder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\createPurchaseOrder1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\modifyPurchaseOrder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\processPurchaseOrder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\createEmployee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\searchEmployee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\about.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\splash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\splash1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sickday.png" />
+    <None Include="Resources\modifyEmployee.png" />
+    <None Include="Resources\logo.png" />
+    <None Include="Resources\generatePay.png" />
+    <None Include="Resources\applySalary.png" />
+    <Content Include="Resources\header.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

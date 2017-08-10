@@ -1,0 +1,61 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DALvb
+</name>
+</assembly>
+<members>
+<member name="M:DALvb.DataAccess.#ctor">
+ <summary>
+ Private constructor for DataAccess
+ </summary>
+</member>
+<member name="M:DALvb.DataAccess.GetData(System.String,System.Collections.Generic.List{UDT.parmStructure})">
+ <summary>
+ Retrieves various information from the database
+ </summary>
+ <param name="sql"></param>
+ <param name="parms"></param>
+ <returns></returns>
+</member>
+<member name="M:DALvb.DataAccess.SendData(System.String,System.Collections.Generic.List{UDT.parmStructure})">
+ <summary>
+ Sends various information to the database
+ </summary>
+ <param name="sql"></param>
+ <param name="parms"></param>
+ <returns></returns>
+</member>
+<member name="M:DALvb.DataAccess.AddParms(System.Collections.Generic.List{UDT.parmStructure},System.Data.SqlClient.SqlCommand)">
+ <summary>
+ Adds parameters to a list of parameters to be sent to the database
+ </summary>
+ <param name="parms"></param>
+ <param name="cmd"></param>
+</member>
+<member name="M:DALvb.DataAccess.UnloadParms(System.Data.SqlClient.SqlCommand,System.Collections.Generic.List{UDT.parmStructure})">
+ <summary>
+ Unloads a list of paramaters that are being sent to the database
+ </summary>
+ <param name="cmd"></param>
+ <param name="parms"></param>
+</member>
+<member name="T:My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>

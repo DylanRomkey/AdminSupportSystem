@@ -1,0 +1,169 @@
+C:\Users\User1\Desktop\AdminSupportSystem\FrontEndDesktop\bin\Debug\FrontEndDesktop.exe.config
+C:\Users\User1\Desktop\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.exe
+C:\Users\User1\Desktop\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.pdb
+C:\Users\User1\Desktop\AdminSupportSystem\FrontEndDesktop\bin\Debug\FrontEndDesktop.exe
+C:\Users\User1\Desktop\AdminSupportSystem\FrontEndDesktop\bin\Debug\FrontEndDesktop.pdb
+C:\Users\User1\Desktop\AdminSupportSystem\FrontEndDesktop\bin\Debug\BOL.dll
+C:\Users\User1\Desktop\AdminSupportSystem\FrontEndDesktop\bin\Debug\UDT.dll
+C:\Users\User1\Desktop\AdminSupportSystem\FrontEndDesktop\bin\Debug\VAL.dll
+C:\Users\User1\Desktop\AdminSupportSystem\FrontEndDesktop\bin\Debug\SQL.dll
+C:\Users\User1\Desktop\AdminSupportSystem\FrontEndDesktop\bin\Debug\DALvb.dll
+C:\Users\User1\Desktop\AdminSupportSystem\FrontEndDesktop\bin\Debug\BOL.pdb
+C:\Users\User1\Desktop\AdminSupportSystem\FrontEndDesktop\bin\Debug\UDT.pdb
+C:\Users\User1\Desktop\AdminSupportSystem\FrontEndDesktop\bin\Debug\VAL.pdb
+C:\Users\User1\Desktop\AdminSupportSystem\FrontEndDesktop\bin\Debug\SQL.pdb
+C:\Users\User1\Desktop\AdminSupportSystem\FrontEndDesktop\bin\Debug\DALvb.pdb
+C:\Users\User1\Desktop\AdminSupportSystem\FrontEndDesktop\bin\Debug\DALvb.xml
+C:\Users\User1\Desktop\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.HR_Forms.ApplySalary.resources
+C:\Users\User1\Desktop\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.HR_Forms.EmployeeAdd.resources
+C:\Users\User1\Desktop\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.HR_Forms.EmployeeSearch.resources
+C:\Users\User1\Desktop\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.HR_Forms.GeneratePay.resources
+C:\Users\User1\Desktop\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.HR_Forms.Passcode.resources
+C:\Users\User1\Desktop\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.CreatePurchaseOrder.resources
+C:\Users\User1\Desktop\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.Main.resources
+C:\Users\User1\Desktop\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.ModifyPurchaseOrder.resources
+C:\Users\User1\Desktop\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.Properties.Resources.resources
+C:\Users\User1\Desktop\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.Startup_Forms.Login.resources
+C:\Users\User1\Desktop\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.Startup_Forms.Splash.resources
+C:\Users\User1\Desktop\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.csproj.GenerateResource.Cache
+C:\Users\Steve\Desktop\AdminSupportSystem\FrontEndDesktop\bin\Debug\FrontEndDesktop.exe.config
+C:\Users\Steve\Desktop\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.exe
+C:\Users\Steve\Desktop\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.pdb
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.csprojResolveAssemblyReference.cache
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.HR_Forms.ApplySalary.resources
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.HR_Forms.EmployeeAdd.resources
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.HR_Forms.EmployeeModification.resources
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.HR_Forms.EmployeeSearch.resources
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.HR_Forms.GeneratePay.resources
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.HR_Forms.Passcode.resources
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.HR_Forms.SickDay.resources
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.CreatePurchaseOrder.resources
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.ProcessPurchaseOrder.resources
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.Startup_Forms.About.resources
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.Main.resources
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.ModifyPurchaseOrder.resources
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.Properties.Resources.resources
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.Startup_Forms.Login.resources
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.Startup_Forms.Splash.resources
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.csproj.GenerateResource.Cache
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\FrontEndDesktop\bin\Debug\FrontEndDesktop.exe.config
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\FrontEndDesktop\bin\Debug\FrontEndDesktop.exe
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\FrontEndDesktop\bin\Debug\FrontEndDesktop.pdb
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\FrontEndDesktop\bin\Debug\BOL.dll
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\FrontEndDesktop\bin\Debug\MdiTabControl.dll
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\FrontEndDesktop\bin\Debug\UDT.dll
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\FrontEndDesktop\bin\Debug\VAL.dll
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\FrontEndDesktop\bin\Debug\SQL.dll
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\FrontEndDesktop\bin\Debug\DALvb.dll
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\FrontEndDesktop\bin\Debug\BOL.pdb
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\FrontEndDesktop\bin\Debug\UDT.pdb
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\FrontEndDesktop\bin\Debug\VAL.pdb
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\FrontEndDesktop\bin\Debug\SQL.pdb
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\FrontEndDesktop\bin\Debug\DALvb.pdb
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\FrontEndDesktop\bin\Debug\DALvb.xml
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.exe
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.pdb
+C:\Users\User1\Desktop\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.HR_Forms.EmployeeModification.resources
+C:\Users\User1\Desktop\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.HR_Forms.SickDay.resources
+C:\Users\User1\Desktop\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.ProcessPurchaseOrder.resources
+C:\Users\User1\Desktop\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.Startup_Forms.About.resources
+C:\Users\Steve\Downloads\AdminSupportSystemDylans\FrontEndDesktop\bin\Debug\FrontEndDesktop.exe.config
+C:\Users\Steve\Downloads\AdminSupportSystemDylans\FrontEndDesktop\obj\Debug\FrontEndDesktop.exe
+C:\Users\Steve\Downloads\AdminSupportSystemDylans\FrontEndDesktop\obj\Debug\FrontEndDesktop.pdb
+C:\Users\Steve\Downloads\AdminSupportSystemDylans\FrontEndDesktop\bin\Debug\FrontEndDesktop.exe
+C:\Users\Steve\Downloads\AdminSupportSystemDylans\FrontEndDesktop\bin\Debug\FrontEndDesktop.pdb
+C:\Users\Steve\Downloads\AdminSupportSystemDylans\FrontEndDesktop\bin\Debug\BOL.dll
+C:\Users\Steve\Downloads\AdminSupportSystemDylans\FrontEndDesktop\bin\Debug\UDT.dll
+C:\Users\Steve\Downloads\AdminSupportSystemDylans\FrontEndDesktop\bin\Debug\VAL.dll
+C:\Users\Steve\Downloads\AdminSupportSystemDylans\FrontEndDesktop\bin\Debug\SQL.dll
+C:\Users\Steve\Downloads\AdminSupportSystemDylans\FrontEndDesktop\bin\Debug\DALvb.dll
+C:\Users\Steve\Downloads\AdminSupportSystemDylans\FrontEndDesktop\bin\Debug\BOL.pdb
+C:\Users\Steve\Downloads\AdminSupportSystemDylans\FrontEndDesktop\bin\Debug\UDT.pdb
+C:\Users\Steve\Downloads\AdminSupportSystemDylans\FrontEndDesktop\bin\Debug\VAL.pdb
+C:\Users\Steve\Downloads\AdminSupportSystemDylans\FrontEndDesktop\bin\Debug\SQL.pdb
+C:\Users\Steve\Downloads\AdminSupportSystemDylans\FrontEndDesktop\bin\Debug\DALvb.pdb
+C:\Users\Steve\Downloads\AdminSupportSystemDylans\FrontEndDesktop\bin\Debug\DALvb.xml
+C:\Users\Steve\Downloads\AdminSupportSystemDylans\FrontEndDesktop\obj\Debug\FrontEndDesktop.csprojResolveAssemblyReference.cache
+C:\Users\Steve\Downloads\AdminSupportSystemDylans\FrontEndDesktop\obj\Debug\FrontEndDesktop.HR_Forms.ApplySalary.resources
+C:\Users\Steve\Downloads\AdminSupportSystemDylans\FrontEndDesktop\obj\Debug\FrontEndDesktop.HR_Forms.EmployeeAdd.resources
+C:\Users\Steve\Downloads\AdminSupportSystemDylans\FrontEndDesktop\obj\Debug\FrontEndDesktop.HR_Forms.EmployeeModification.resources
+C:\Users\Steve\Downloads\AdminSupportSystemDylans\FrontEndDesktop\obj\Debug\FrontEndDesktop.HR_Forms.EmployeeSearch.resources
+C:\Users\Steve\Downloads\AdminSupportSystemDylans\FrontEndDesktop\obj\Debug\FrontEndDesktop.HR_Forms.GeneratePay.resources
+C:\Users\Steve\Downloads\AdminSupportSystemDylans\FrontEndDesktop\obj\Debug\FrontEndDesktop.HR_Forms.Passcode.resources
+C:\Users\Steve\Downloads\AdminSupportSystemDylans\FrontEndDesktop\obj\Debug\FrontEndDesktop.HR_Forms.SickDay.resources
+C:\Users\Steve\Downloads\AdminSupportSystemDylans\FrontEndDesktop\obj\Debug\FrontEndDesktop.CreatePurchaseOrder.resources
+C:\Users\Steve\Downloads\AdminSupportSystemDylans\FrontEndDesktop\obj\Debug\FrontEndDesktop.ProcessPurchaseOrder.resources
+C:\Users\Steve\Downloads\AdminSupportSystemDylans\FrontEndDesktop\obj\Debug\FrontEndDesktop.Startup_Forms.About.resources
+C:\Users\Steve\Downloads\AdminSupportSystemDylans\FrontEndDesktop\obj\Debug\FrontEndDesktop.Main.resources
+C:\Users\Steve\Downloads\AdminSupportSystemDylans\FrontEndDesktop\obj\Debug\FrontEndDesktop.ModifyPurchaseOrder.resources
+C:\Users\Steve\Downloads\AdminSupportSystemDylans\FrontEndDesktop\obj\Debug\FrontEndDesktop.Properties.Resources.resources
+C:\Users\Steve\Downloads\AdminSupportSystemDylans\FrontEndDesktop\obj\Debug\FrontEndDesktop.Startup_Forms.Login.resources
+C:\Users\Steve\Downloads\AdminSupportSystemDylans\FrontEndDesktop\obj\Debug\FrontEndDesktop.Startup_Forms.Splash.resources
+C:\Users\Steve\Downloads\AdminSupportSystemDylans\FrontEndDesktop\obj\Debug\FrontEndDesktop.csproj.GenerateResource.Cache
+C:\Users\Steve\Downloads\AdminSupportSystem\FrontEndDesktop\bin\Debug\FrontEndDesktop.exe.config
+C:\Users\Steve\Downloads\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.exe
+C:\Users\Steve\Downloads\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.pdb
+C:\Users\Steve\Downloads\AdminSupportSystem\FrontEndDesktop\bin\Debug\FrontEndDesktop.exe
+C:\Users\Steve\Downloads\AdminSupportSystem\FrontEndDesktop\bin\Debug\FrontEndDesktop.pdb
+C:\Users\Steve\Downloads\AdminSupportSystem\FrontEndDesktop\bin\Debug\BOL.dll
+C:\Users\Steve\Downloads\AdminSupportSystem\FrontEndDesktop\bin\Debug\UDT.dll
+C:\Users\Steve\Downloads\AdminSupportSystem\FrontEndDesktop\bin\Debug\VAL.dll
+C:\Users\Steve\Downloads\AdminSupportSystem\FrontEndDesktop\bin\Debug\SQL.dll
+C:\Users\Steve\Downloads\AdminSupportSystem\FrontEndDesktop\bin\Debug\DALvb.dll
+C:\Users\Steve\Downloads\AdminSupportSystem\FrontEndDesktop\bin\Debug\BOL.pdb
+C:\Users\Steve\Downloads\AdminSupportSystem\FrontEndDesktop\bin\Debug\UDT.pdb
+C:\Users\Steve\Downloads\AdminSupportSystem\FrontEndDesktop\bin\Debug\VAL.pdb
+C:\Users\Steve\Downloads\AdminSupportSystem\FrontEndDesktop\bin\Debug\SQL.pdb
+C:\Users\Steve\Downloads\AdminSupportSystem\FrontEndDesktop\bin\Debug\DALvb.pdb
+C:\Users\Steve\Downloads\AdminSupportSystem\FrontEndDesktop\bin\Debug\DALvb.xml
+C:\Users\Steve\Downloads\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.csprojResolveAssemblyReference.cache
+C:\Users\Steve\Downloads\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.HR_Forms.ApplySalary.resources
+C:\Users\Steve\Downloads\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.HR_Forms.EmployeeAdd.resources
+C:\Users\Steve\Downloads\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.HR_Forms.EmployeeModification.resources
+C:\Users\Steve\Downloads\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.HR_Forms.EmployeeSearch.resources
+C:\Users\Steve\Downloads\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.HR_Forms.GeneratePay.resources
+C:\Users\Steve\Downloads\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.HR_Forms.Passcode.resources
+C:\Users\Steve\Downloads\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.HR_Forms.SickDay.resources
+C:\Users\Steve\Downloads\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.CreatePurchaseOrder.resources
+C:\Users\Steve\Downloads\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.ProcessPurchaseOrder.resources
+C:\Users\Steve\Downloads\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.Startup_Forms.About.resources
+C:\Users\Steve\Downloads\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.Main.resources
+C:\Users\Steve\Downloads\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.ModifyPurchaseOrder.resources
+C:\Users\Steve\Downloads\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.Properties.Resources.resources
+C:\Users\Steve\Downloads\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.Startup_Forms.Login.resources
+C:\Users\Steve\Downloads\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.Startup_Forms.Splash.resources
+C:\Users\Steve\Downloads\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.csproj.GenerateResource.Cache
+C:\Users\User1\Desktop\X other\School\Term 6\AdminSupportSystem\FrontEndDesktop\bin\Debug\FrontEndDesktop.exe.config
+C:\Users\User1\Desktop\X other\School\Term 6\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.exe
+C:\Users\User1\Desktop\X other\School\Term 6\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.pdb
+C:\Users\User1\Desktop\X other\School\Term 6\AdminSupportSystem\FrontEndDesktop\bin\Debug\FrontEndDesktop.exe
+C:\Users\User1\Desktop\X other\School\Term 6\AdminSupportSystem\FrontEndDesktop\bin\Debug\FrontEndDesktop.pdb
+C:\Users\User1\Desktop\X other\School\Term 6\AdminSupportSystem\FrontEndDesktop\bin\Debug\BOL.dll
+C:\Users\User1\Desktop\X other\School\Term 6\AdminSupportSystem\FrontEndDesktop\bin\Debug\UDT.dll
+C:\Users\User1\Desktop\X other\School\Term 6\AdminSupportSystem\FrontEndDesktop\bin\Debug\VAL.dll
+C:\Users\User1\Desktop\X other\School\Term 6\AdminSupportSystem\FrontEndDesktop\bin\Debug\SQL.dll
+C:\Users\User1\Desktop\X other\School\Term 6\AdminSupportSystem\FrontEndDesktop\bin\Debug\DALvb.dll
+C:\Users\User1\Desktop\X other\School\Term 6\AdminSupportSystem\FrontEndDesktop\bin\Debug\BOL.pdb
+C:\Users\User1\Desktop\X other\School\Term 6\AdminSupportSystem\FrontEndDesktop\bin\Debug\UDT.pdb
+C:\Users\User1\Desktop\X other\School\Term 6\AdminSupportSystem\FrontEndDesktop\bin\Debug\VAL.pdb
+C:\Users\User1\Desktop\X other\School\Term 6\AdminSupportSystem\FrontEndDesktop\bin\Debug\SQL.pdb
+C:\Users\User1\Desktop\X other\School\Term 6\AdminSupportSystem\FrontEndDesktop\bin\Debug\DALvb.pdb
+C:\Users\User1\Desktop\X other\School\Term 6\AdminSupportSystem\FrontEndDesktop\bin\Debug\DALvb.xml
+C:\Users\User1\Desktop\X other\School\Term 6\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\X other\School\Term 6\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.HR_Forms.ApplySalary.resources
+C:\Users\User1\Desktop\X other\School\Term 6\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.HR_Forms.EmployeeAdd.resources
+C:\Users\User1\Desktop\X other\School\Term 6\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.HR_Forms.EmployeeModification.resources
+C:\Users\User1\Desktop\X other\School\Term 6\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.HR_Forms.EmployeeSearch.resources
+C:\Users\User1\Desktop\X other\School\Term 6\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.HR_Forms.GeneratePay.resources
+C:\Users\User1\Desktop\X other\School\Term 6\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.HR_Forms.Passcode.resources
+C:\Users\User1\Desktop\X other\School\Term 6\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.HR_Forms.SickDay.resources
+C:\Users\User1\Desktop\X other\School\Term 6\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.CreatePurchaseOrder.resources
+C:\Users\User1\Desktop\X other\School\Term 6\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.ProcessPurchaseOrder.resources
+C:\Users\User1\Desktop\X other\School\Term 6\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.Startup_Forms.About.resources
+C:\Users\User1\Desktop\X other\School\Term 6\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.Main.resources
+C:\Users\User1\Desktop\X other\School\Term 6\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.ModifyPurchaseOrder.resources
+C:\Users\User1\Desktop\X other\School\Term 6\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.Properties.Resources.resources
+C:\Users\User1\Desktop\X other\School\Term 6\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.Startup_Forms.Login.resources
+C:\Users\User1\Desktop\X other\School\Term 6\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.Startup_Forms.Splash.resources
+C:\Users\User1\Desktop\X other\School\Term 6\AdminSupportSystem\FrontEndDesktop\obj\Debug\FrontEndDesktop.csproj.GenerateResource.Cache

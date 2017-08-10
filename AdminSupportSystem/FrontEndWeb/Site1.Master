@@ -1,0 +1,64 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="FrontEndWeb.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>GearWorks Admin Support System</title>
+    <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <link href="Main.css" rel="stylesheet" />
+
+    <script src='<%= ResolveUrl("~/Scripts/jquery-1.9.1.min.js")%>'  type="text/javascript"></script>
+    <script language="javascript" type="text/javascript">
+        function validateWorkPhone() {
+            var value = $("#ContentPlaceHolder1_txtWorkPhone").val();
+
+            if (value.length == 10) {
+                $("#ContentPlaceHolder1_txtWorkPhone").css("color", "green");
+            }
+            else {
+                $("#ContentPlaceHolder1_txtWorkPhone").css("color", "red");
+            }
+        }
+
+        function validateCellPhone() {
+            var value = $("#ContentPlaceHolder1_txtCellPhone").val();
+
+            if (value.length == 10) {
+                $("#ContentPlaceHolder1_txtCellPhone").css("color", "green");
+            }
+            else {
+                $("#ContentPlaceHolder1_txtCellPhone").css("color", "red");
+            }
+        }
+
+        function validatePostalCode() {
+            var value = $("#ContentPlaceHolder1_txtPC").val();
+
+            if (value.length == 6) {
+                $("#ContentPlaceHolder1_txtPC").css("color", "green");
+            }
+            else {
+                $("#ContentPlaceHolder1_txtPC").css("color", "red");
+            }
+        }
+    </script>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="wrapper">
+            <div id="header">
+                <a href="~/Default.aspx" runat="server" id="headerImage"> 
+                    <asp:Image ID="logo" runat="server" ImageUrl="/images/header.png" />
+                 </a> 
+            </div>
+        </div>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,9 @@
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\UDT\bin\Debug\UDT.dll
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\UDT\bin\Debug\UDT.pdb
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\UDT\obj\Debug\UDT.dll
+C:\Users\Steve\NBCC\Final\AdminSupportSystem\UDT\obj\Debug\UDT.pdb
+C:\Users\User1\Desktop\AdminSupportSystem\UDT\bin\Debug\UDT.dll
+C:\Users\User1\Desktop\AdminSupportSystem\UDT\bin\Debug\UDT.pdb
+C:\Users\User1\Desktop\AdminSupportSystem\UDT\obj\Debug\UDT.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\AdminSupportSystem\UDT\obj\Debug\UDT.dll
+C:\Users\User1\Desktop\AdminSupportSystem\UDT\obj\Debug\UDT.pdb
